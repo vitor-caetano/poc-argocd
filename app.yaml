@@ -9,7 +9,7 @@ metadata:
 spec:
   project: tribo-devops
   source:
-    repoURL: https:/github.com/vitor-caetano/poc-argocd.git
+    repoURL: https://github.com/vitor-caetano/poc-argocd.git
     targetRevision: HEAD
     path: apps
   destination:
